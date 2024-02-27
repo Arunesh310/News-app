@@ -1,0 +1,27 @@
+.navbar {
+  background-color: #212529;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.navbar-toggler {
+  border: 1px solid #fff;
+}
+
+.navbar-nav .nav-item {
+  margin-right: 10px;
+}
+
+.navbar-nav .nav-link {
+  color: #fff !important;
+}
+
+.form-check-input {
+  border: 1px solid #fff;
+}
+
+.form-check-label {
+  color: #fff;
+}
