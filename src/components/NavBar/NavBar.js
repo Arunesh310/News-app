@@ -11,7 +11,7 @@ const NavBar = (props) => {
       >
         <div className="container-fluid">
           <Link className="navbar-brand" to="/">
-            Neusy
+            Vaani
           </Link>
           <button
             className="navbar-toggler"
